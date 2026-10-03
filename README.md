@@ -34,13 +34,13 @@ When I'm not writing code, you can find me:
 ### 🌃 GitHub Activity
 
 <!-- You can replace this section with a 3D contribution graph like github.com/yoshi389111/github-profile-3d-contrib -->
-![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilsanu&show_icons=true&theme=radical)
 
 ---
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=flat&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/adil-shan-1b65a9175)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=flat&logo=gmail)](mailto:adilshan503@gmail.com)
 
 Always learning, always building. 🚀
