@@ -1,46 +1,33 @@
 # Hi, I'm Adil Shan M — Full-Stack Developer
 
-What I build, and life beyond the code. I focus on creating full-stack web applications, engaging digital experiences, and clean UI/UX designs.
+<img src="1758279616536.jpg" width="220" align="right" alt="Profile Picture">[cite: 1]
 
-### 💻 Tech Stack
-*   **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind
-*   **Backend:** Node.js, Express.js, MongoDB
-*   **CMS & Platforms:** WordPress, Shopify
-*   **Tools & Environment:** Git, PowerShell, REST APIs
+What I build, and life beyond the code. 
 
----
+### 💻 Tech stack
+**Frontend:** React, JavaScript, HTML, CSS  
+**Backend:** Node.js, MongoDB  
+**CMS & Platforms:** WordPress, Shopify  
 
-### 🎌 Featured Builds
+### 🎌 Featured builds
 
-| Project | What it is | Stack | 
-| :--- | :--- | :--- | 
-| **Interactive Digital Invitations** | Full-stack event sites featuring glassmorphism design, interactive 3D motion effects, and live RSVP tracking. | `React` `Node.js` `MongoDB` | 
-| **E-commerce Tracking Portal** | Custom web application for real-time order tracking and management. | `React` `Node.js` `MongoDB` | 
-| **Zeenah Brand Campaign** | Landscape packaging label designs and promotional posters for organic wellness products. | `UI/UX` `Graphic Design` | 
-| **Heritage Walk Kochi** | Event platform featuring promotional poster designs and curated event descriptions. | `Web` `Content` | 
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **Interactive Digital Invitations** | Full-stack event sites with glassmorphism, 3D motion effects, and RSVP tracking | React Node.js MongoDB |
+| **E-commerce Tracking Portal** | Custom web application for real-time order tracking | HTML CSS JS React |
+| **Zeenah Brand Campaign** | Landscape packaging label designs and promotional posters for organic products | Design UI/UX |
+| **Heritage Walk Kochi** | Event platform featuring curated event descriptions and promotional poster designs | Design Content |
 
----
+### 🎮 Life beyond the code
+When I'm not building web applications, you can usually find me playing video games, out driving, taking road trips, listening to music, or catching the latest DQ and SRK movies.
 
-### 🎮 Life Beyond the Code
+### 🌃 My contribution city
+*Every commit builds another tower — rebuilt automatically every day.*
 
-When I'm not writing code, you can find me:
-*   🏍️ **Exploring:** Taking my motorcycle out for touring and road trips through hill stations.
-*   🎬 **Watching:** Catching the latest releases in theaters (huge fan of DQ and SRK movies).
-*   🕹️ **Gaming:** Playing video games and checking out the latest game teasers.
-*   🎧 **Listening:** Always have music playing in the background while I work.
+<!-- Setup action at: https://github.com/yoshi389111/github-profile-3d-contrib -->
+![3D contribution city](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/images/profile-3d-contrib-step1.png)
 
----
-
-### 🌃 GitHub Activity
-
-<!-- You can replace this section with a 3D contribution graph like github.com/yoshi389111/github-profile-3d-contrib -->
-![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilsanu&show_icons=true&theme=radical)
-
----
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/adil-shan-1b65a9175)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=flat&logo=gmail)](mailto:adilshan503@gmail.com)
+### 🤝 Let's connect
+[GitHub](https://github.com/adilsanu) • [Email](mailto:adilshan503@gmail.com) • [LinkedIn](www.linkedin.com/in/adil-shan-1b65a9175)
 
 Always learning, always building. 🚀
